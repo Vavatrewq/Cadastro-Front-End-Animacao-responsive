@@ -1,0 +1,34 @@
+@media screen and (max-width:1300px){
+    [width="300px"]{
+        width:200px;
+    }
+}
+
+@media screen and (max-width:1000px){
+    .static, .background{
+        display:none;
+    }
+
+    [width="300px"]{
+        width:150px;
+    }
+    
+    .login, .content{
+        margin-top:150px;
+        padding:5%;
+        max-height: 50vh;
+    }
+}
+
+
+@media screen and (max-width:650px){
+    #id{
+        display: none;
+    }
+    
+    .login{
+        margin:auto;
+    }
+}
+
+

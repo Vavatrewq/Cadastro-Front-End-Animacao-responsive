@@ -2,6 +2,8 @@
 
 ##Projeto Front-End Cadastro/Usuário...
 
+##Estudo Design.
+
 ##Animação1-Entrada
 
 ![Animação1](https://github.com/Vavatrewq/Cadastro-Front-End-Animacao-responsive/blob/master/Assets/Gif/Gif1.gif)
